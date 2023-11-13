@@ -1,0 +1,29 @@
+Write pseudocode to put zero into variablerunning_total. 
+Then write separate instructions to addthe following numbers onto what is in the variable,adding one number at a time 5, 8, 2, 3. 
+Print running_total.
+
+# Initialize running_total to zero
+1. Set running_total to 0  
+
+# Add the number 5 to running_total
+2. Add 5 to running_total  
+# Add the number 8 to running_total
+3. Add 8 to running_total  
+# Add the number 2 to running_total
+4. Add 2 to running_total
+# Add the number 3 to running_total  
+5. Add 3 to running_total  
+
+# Display the final value of running_total
+6. Print running_total  
+
+
+
+#Above the Code 
+runing_total = 0
+runing_total += 5
+runing_total += 8
+runing_total += 2
+runing_total += 3
+
+print(runing_total)
